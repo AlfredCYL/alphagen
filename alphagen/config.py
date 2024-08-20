@@ -1,6 +1,5 @@
 from alphagen.data.expression import *
 
-
 MAX_EXPR_LENGTH = 20
 MAX_EPISODE_LENGTH = 256
 
